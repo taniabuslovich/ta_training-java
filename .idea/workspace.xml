@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f7a3a70f-fed8-4ba7-8a31-ca5da97c9ff6" name="Changes" comment="first tasks" />
+    <list default="true" id="8bb7abfb-b160-48e5-938e-3badb12c43d3" name="Changes" comment="tasks" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,6 +39,11 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.epam.training.student_tatsiana_mikhnavets.arrays.max_method" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -125,21 +130,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680254296032</updated>
     </task>
-    <task id="LOCAL-00012" summary="first tasks">
-      <created>1681746624986</created>
+    <task id="LOCAL-00012" summary="tasks">
+      <created>1682019425984</created>
       <option name="number" value="00012" />
       <option name="presentableId" value="LOCAL-00012" />
       <option name="project" value="LOCAL" />
-      <updated>1681746624986</updated>
+      <updated>1682019425984</updated>
     </task>
-    <task id="LOCAL-00013" summary="first tasks">
-      <created>1681746651153</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1681746651153</updated>
-    </task>
-    <option name="localTasksCounter" value="14" />
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -156,6 +154,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="first tasks" />
-    <option name="LAST_COMMIT_MESSAGE" value="first tasks" />
+    <MESSAGE value="tasks" />
+    <option name="LAST_COMMIT_MESSAGE" value="tasks" />
   </component>
 </project>

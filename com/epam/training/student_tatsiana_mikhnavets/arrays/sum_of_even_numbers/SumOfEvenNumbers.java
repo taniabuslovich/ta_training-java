@@ -1,4 +1,4 @@
-package com.epam.training.student_tatsiana_mikhnavets.arrays.max_method.sum_of_even_numbers;
+package com.epam.training.student_tatsiana_mikhnavets.arrays.sum_of_even_numbers;
 
 public class SumOfEvenNumbers {
     public static void main(String[] args) {
