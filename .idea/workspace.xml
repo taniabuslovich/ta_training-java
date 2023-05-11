@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8bb7abfb-b160-48e5-938e-3badb12c43d3" name="Changes" comment="tasks" />
+    <list default="true" id="8bb7abfb-b160-48e5-938e-3badb12c43d3" name="Changes" comment="first tasks">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,7 +49,7 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f7a3a70f-fed8-4ba7-8a31-ca5da97c9ff6" name="Changes" comment="" />
+      <changelist id="8bb7abfb-b160-48e5-938e-3badb12c43d3" name="Changes" comment="first tasks" />
       <created>1680176629155</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -137,7 +139,56 @@
       <option name="project" value="LOCAL" />
       <updated>1682019425984</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="tasks">
+      <created>1682019516207</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1682019516207</updated>
+    </task>
+    <task id="LOCAL-00014" summary="tasks">
+      <created>1682019536438</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1682019536438</updated>
+    </task>
+    <task id="LOCAL-00015" summary="tasks">
+      <created>1682019594457</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1682019594457</updated>
+    </task>
+    <task id="LOCAL-00016" summary="tasks">
+      <created>1682019617400</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1682019617400</updated>
+    </task>
+    <task id="LOCAL-00017" summary="tasks">
+      <created>1682019651637</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1682019651637</updated>
+    </task>
+    <task id="LOCAL-00018" summary="first tasks">
+      <created>1682019727060</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1682019727060</updated>
+    </task>
+    <task id="LOCAL-00019" summary="first tasks">
+      <created>1682019807122</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1682019807122</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -153,8 +204,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="first tasks" />
     <MESSAGE value="tasks" />
-    <option name="LAST_COMMIT_MESSAGE" value="tasks" />
+    <MESSAGE value="first tasks" />
+    <option name="LAST_COMMIT_MESSAGE" value="first tasks" />
   </component>
 </project>
