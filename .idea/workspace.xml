@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8bb7abfb-b160-48e5-938e-3badb12c43d3" name="Changes" comment="first tasks">
-      <change afterPath="$PROJECT_DIR$/com/epam/training/student_tatsiana_mikhnavets/classes/line_intersection/Line.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/epam/training/student_tatsiana_mikhnavets/classes/line_intersection/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/epam/training/student_tatsiana_mikhnavets/classes/line_intersection/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/epam/training/student_tatsiana_mikhnavets/classes/segments/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/epam/training/student_tatsiana_mikhnavets/classes/segments/Segment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/epam/training/student_tatsiana_mikhnavets/classes/segments/main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -281,7 +281,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687786262175</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="first tasks">
+      <created>1688909373229</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1688909373229</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
