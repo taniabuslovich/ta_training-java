@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8bb7abfb-b160-48e5-938e-3badb12c43d3" name="Changes" comment="first tasks">
-      <change afterPath="$PROJECT_DIR$/com/epam/training/student_tatsiana_mikhnavets/basics_of_oop/gradually_decreasing_carousel/Carousel2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/epam/training/student_tatsiana_mikhnavets/basics_of_oop/gradually_decreasing_carousel/CarouselRun.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/epam/training/student_tatsiana_mikhnavets/basics_of_oop/gradually_decreasing_carousel/DecrementingCarousel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/epam/training/student_tatsiana_mikhnavets/basics_of_oop/gradually_decreasing_carousel/GraduallyDecreasingCarousel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/epam/training/student_tatsiana_mikhnavets/basics_of_oop/decrementing_carousel_with_limit/CarouselRun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/epam/training/student_tatsiana_mikhnavets/basics_of_oop/decrementing_carousel_with_limit/CarouselRun3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/epam/training/student_tatsiana_mikhnavets/basics_of_oop/decrementing_carousel_with_limit/DecrementingCarousel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/epam/training/student_tatsiana_mikhnavets/basics_of_oop/decrementing_carousel_with_limit/DecrementingCarouselWithLimitedRun.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -338,7 +338,14 @@
       <option name="project" value="LOCAL" />
       <updated>1692887844683</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="first tasks">
+      <created>1693036283491</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1693036283491</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
