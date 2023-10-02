@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8bb7abfb-b160-48e5-938e-3badb12c43d3" name="Changes" comment="first tasks">
-      <change afterPath="$PROJECT_DIR$/com/epam/training/student_tatsiana_mikhnavets/abstract_classes_and_interfaces/figures_extra/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/epam/training/student_tatsiana_mikhnavets/abstract_classes_and_interfaces/figures_extra/Figure.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/epam/training/student_tatsiana_mikhnavets/abstract_classes_and_interfaces/figures_extra/Point.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/epam/training/student_tatsiana_mikhnavets/abstract_classes_and_interfaces/figures_extra/Quadrilateral.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/epam/training/student_tatsiana_mikhnavets/abstract_classes_and_interfaces/figures_extra/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/epam/training/student_tatsiana_mikhnavets/nested_classes/contact_book/Contact.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/epam/training/student_tatsiana_mikhnavets/nested_classes/contact_book/ContactInfo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -20,8 +17,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -382,7 +379,14 @@
       <option name="project" value="LOCAL" />
       <updated>1695897433608</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="first tasks">
+      <created>1695902578856</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1695902578856</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
