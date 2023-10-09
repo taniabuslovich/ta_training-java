@@ -1,4 +1,4 @@
-package com.epam.training.student_tatsiana_mikhnavets.generics.house;
+package com.epam.training.student_tatsiana_mikhnavets.generics.be_aware_of_dogs.house;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package com.epam.training.student_tatsiana_mikhnavets.generics.residents.dogs;
+package com.epam.training.student_tatsiana_mikhnavets.generics.be_aware_of_dogs.residents.dogs;
 
 public class Puppy extends Dog {
 
