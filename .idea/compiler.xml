@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <excludeFromCompile>
+      <directory url="file://$PROJECT_DIR$/com/epam/training/student_tatsiana_mikhnavets/webdriver/i_can_win/src/main/resources/archetype-resources" includeSubdirectories="true" />
+      <directory url="file://$PROJECT_DIR$/com/epam/training/student_tatsiana_mikhnavets/webdriver/bring_it_on/src/main/resources/archetype-resources" includeSubdirectories="true" />
+      <directory url="file://$PROJECT_DIR$/com/epam/training/student_tatsiana_mikhnavets/webdriver/hurt_me_plenty/src/main/resources/archetype-resources" includeSubdirectories="true" />
+      <directory url="file://$PROJECT_DIR$/com/epam/training/student_tatsiana_mikhnavets/webdriver/hardcore/src/main/resources/archetype-resources" includeSubdirectories="true" />
+    </excludeFromCompile>
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="bring_it_on" />
+        <module name="hurt_me_plenty" />
+        <module name="i_can_win" />
+        <module name="hardcore" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

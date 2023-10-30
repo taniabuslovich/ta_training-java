@@ -4,33 +4,50 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8bb7abfb-b160-48e5-938e-3badb12c43d3" name="Changes" comment="first tasks">
-      <change afterPath="$PROJECT_DIR$/com/epam/training/student_tatsiana_mikhnavets/clean_code/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/epam/training/student_tatsiana_mikhnavets/clean_code/.idea/aircompany.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/epam/training/student_tatsiana_mikhnavets/clean_code/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/epam/training/student_tatsiana_mikhnavets/clean_code/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/epam/training/student_tatsiana_mikhnavets/clean_code/.idea/libraries/Maven__com_beust_jcommander_1_72.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/epam/training/student_tatsiana_mikhnavets/clean_code/.idea/libraries/Maven__org_testng_testng_7_0_0_beta1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/epam/training/student_tatsiana_mikhnavets/clean_code/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/epam/training/student_tatsiana_mikhnavets/clean_code/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/epam/training/student_tatsiana_mikhnavets/clean_code/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/epam/training/student_tatsiana_mikhnavets/clean_code/CONTRIBUTORS.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/epam/training/student_tatsiana_mikhnavets/clean_code/Java/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/epam/training/student_tatsiana_mikhnavets/clean_code/Java/aircompany.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/epam/training/student_tatsiana_mikhnavets/clean_code/Java/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/epam/training/student_tatsiana_mikhnavets/clean_code/Java/src/main/java/Airport.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/epam/training/student_tatsiana_mikhnavets/clean_code/Java/src/main/java/Planes/ExperimentalPlane.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/epam/training/student_tatsiana_mikhnavets/clean_code/Java/src/main/java/Planes/MilitaryPlane.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/epam/training/student_tatsiana_mikhnavets/clean_code/Java/src/main/java/Planes/PassengerPlane.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/epam/training/student_tatsiana_mikhnavets/clean_code/Java/src/main/java/Planes/Plane.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/epam/training/student_tatsiana_mikhnavets/clean_code/Java/src/main/java/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/epam/training/student_tatsiana_mikhnavets/clean_code/Java/src/main/java/models/ClassificationLevels.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/epam/training/student_tatsiana_mikhnavets/clean_code/Java/src/main/java/models/ExperimentalTypes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/epam/training/student_tatsiana_mikhnavets/clean_code/Java/src/main/java/models/MilitaryPlaneTypes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/epam/training/student_tatsiana_mikhnavets/clean_code/Java/src/test/java/AirportTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/epam/training/student_tatsiana_mikhnavets/clean_code/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/epam/training/student_tatsiana_mikhnavets/clean_code/README.md" afterDir="false" />
+    <list default="true" id="8bb7abfb-b160-48e5-938e-3badb12c43d3" name="Changes" comment="clean code java">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/epam/training/student_tatsiana_mikhnavets/webdriver/bring_it_on/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/epam/training/student_tatsiana_mikhnavets/webdriver/bring_it_on/src/main/java/page/PastebinHomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/epam/training/student_tatsiana_mikhnavets/webdriver/bring_it_on/src/main/java/page/PastebinSubmittedPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/epam/training/student_tatsiana_mikhnavets/webdriver/bring_it_on/src/main/resources/META-INF/maven/archetype.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/epam/training/student_tatsiana_mikhnavets/webdriver/bring_it_on/src/main/resources/archetype-resources/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/epam/training/student_tatsiana_mikhnavets/webdriver/bring_it_on/src/main/resources/archetype-resources/src/main/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/epam/training/student_tatsiana_mikhnavets/webdriver/bring_it_on/src/main/resources/archetype-resources/src/test/java/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/epam/training/student_tatsiana_mikhnavets/webdriver/bring_it_on/src/test/java/PastebinSubmittedDataTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/epam/training/student_tatsiana_mikhnavets/webdriver/hardcore/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/epam/training/student_tatsiana_mikhnavets/webdriver/hardcore/src/main/java/page/GoogleCloudHomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/epam/training/student_tatsiana_mikhnavets/webdriver/hardcore/src/main/java/page/GoogleCloudPricingCalculatorConfigurationPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/epam/training/student_tatsiana_mikhnavets/webdriver/hardcore/src/main/java/page/GoogleCloudPricingCalculatorResultPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/epam/training/student_tatsiana_mikhnavets/webdriver/hardcore/src/main/java/page/GoogleCloudSearchResultsPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/epam/training/student_tatsiana_mikhnavets/webdriver/hardcore/src/main/java/page/YopMailPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/epam/training/student_tatsiana_mikhnavets/webdriver/hardcore/src/main/resources/META-INF/maven/archetype.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/epam/training/student_tatsiana_mikhnavets/webdriver/hardcore/src/main/resources/archetype-resources/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/epam/training/student_tatsiana_mikhnavets/webdriver/hardcore/src/main/resources/archetype-resources/src/main/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/epam/training/student_tatsiana_mikhnavets/webdriver/hardcore/src/main/resources/archetype-resources/src/test/java/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/epam/training/student_tatsiana_mikhnavets/webdriver/hardcore/src/test/java/GoogleCloudPricingCalculatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/epam/training/student_tatsiana_mikhnavets/webdriver/hurt_me_plenty/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/epam/training/student_tatsiana_mikhnavets/webdriver/hurt_me_plenty/src/main/java/page/GoogleCloudHomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/epam/training/student_tatsiana_mikhnavets/webdriver/hurt_me_plenty/src/main/java/page/GoogleCloudPricingCalculatorConfigurationPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/epam/training/student_tatsiana_mikhnavets/webdriver/hurt_me_plenty/src/main/java/page/GoogleCloudPricingCalculatorResultPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/epam/training/student_tatsiana_mikhnavets/webdriver/hurt_me_plenty/src/main/java/page/GoogleCloudSearchResultsPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/epam/training/student_tatsiana_mikhnavets/webdriver/hurt_me_plenty/src/main/resources/META-INF/maven/archetype.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/epam/training/student_tatsiana_mikhnavets/webdriver/hurt_me_plenty/src/main/resources/archetype-resources/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/epam/training/student_tatsiana_mikhnavets/webdriver/hurt_me_plenty/src/main/resources/archetype-resources/src/main/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/epam/training/student_tatsiana_mikhnavets/webdriver/hurt_me_plenty/src/main/resources/archetype-resources/src/test/java/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/epam/training/student_tatsiana_mikhnavets/webdriver/hurt_me_plenty/src/test/java/GoogleCloudPricingCalculatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/epam/training/student_tatsiana_mikhnavets/webdriver/i_can_win/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/epam/training/student_tatsiana_mikhnavets/webdriver/i_can_win/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/epam/training/student_tatsiana_mikhnavets/webdriver/i_can_win/src/main/java/Page/PastebinHomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/epam/training/student_tatsiana_mikhnavets/webdriver/i_can_win/src/main/resources/META-INF/maven/archetype.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/epam/training/student_tatsiana_mikhnavets/webdriver/i_can_win/src/main/resources/archetype-resources/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/epam/training/student_tatsiana_mikhnavets/webdriver/i_can_win/src/main/resources/archetype-resources/src/main/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/epam/training/student_tatsiana_mikhnavets/webdriver/i_can_win/src/main/resources/archetype-resources/src/test/java/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ta_training-java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ta_training-java.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,8 +61,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Class" />
         <option value="AnnotationType" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -68,6 +85,18 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -89,7 +118,9 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/JAVA/ta_training-java/com/epam/training/student_tatsiana_mikhnavets/clean_code"
+    "jdk.selected.JAVA_MODULE": "19 (2)",
+    "last_opened_file_path": "C:/JAVA/ta_training-java/com/epam/training/student_tatsiana_mikhnavets/clean_code",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -98,6 +129,9 @@
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\JAVA\ta_training-java\com\epam\training\student_tatsiana_mikhnavets\clean_code" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\JAVA\ta_training-java\com\epam\training\student_tatsiana_mikhnavets\webdriver" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.epam.training.student_tatsiana_mikhnavets.arrays.max_method" />
@@ -145,13 +179,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1680176629155</updated>
-    </task>
-    <task id="LOCAL-00005" summary="first tasks">
-      <created>1680178361240</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1680178361240</updated>
     </task>
     <task id="LOCAL-00006" summary="first tasks">
       <created>1680178455082</created>
@@ -489,7 +516,14 @@
       <option name="project" value="LOCAL" />
       <updated>1697636203091</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="clean code java">
+      <created>1697703142691</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1697703142691</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -507,6 +541,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="tasks" />
     <MESSAGE value="first tasks" />
-    <option name="LAST_COMMIT_MESSAGE" value="first tasks" />
+    <MESSAGE value="clean code java" />
+    <option name="LAST_COMMIT_MESSAGE" value="clean code java" />
   </component>
 </project>
